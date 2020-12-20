@@ -1,0 +1,23 @@
+{
+  "name": "lijin",
+  "version": "1.0.0",
+  "description": "1. npm install -g vuepress\r 2. npm run dev\r 3. npm run build",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijink/lijinArticle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijink/lijinArticle/issues"
+  },
+  "homepage": "https://github.com/lijink/lijinArticle#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
